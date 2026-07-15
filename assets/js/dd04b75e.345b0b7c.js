@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["8673"],{33024(i){i.exports=JSON.parse('{"authors":[{"name":"magicianlib","page":{"permalink":"/blog/authors/magicianlib"},"socials":{"github":"https://github.com/magicianlib"},"imageURL":"https://github.com/magicianlib.png","key":"magicianlib","count":0}]}')}}]);
